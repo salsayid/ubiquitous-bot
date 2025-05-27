@@ -1,4 +1,4 @@
-# ubiquitous-bot
+# Autonomous Arduino Bot
 Software and hardware configurations for an autonomous, remote-controlled, line-following, and obstacle-avoidance robot.
 
 All components and materials needed to build:
