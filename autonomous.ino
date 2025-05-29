@@ -10,7 +10,7 @@
 //  HIGH  HIGH  HIGH  HIGH  HIGH  HIGH  Car is stoped
 //  LOW   LOW   N/A   N/A   N/A   N/A   Car is stoped
 
-
+//set 0 to full gauge
 //define L298n module IO Pin
 #define ENA 5
 #define ENB 6
